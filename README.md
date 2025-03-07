@@ -1,5 +1,5 @@
 # Project-Euler
-1) sum
+1) Multiple 3 or 5
 
 2) 
 
