@@ -1,7 +1,8 @@
 # Project-Euler
 1) Multiple 3 or 5
 
-2) 
+2) Sum Square Differents
+3) 
 
-3)
 4)
+5)
