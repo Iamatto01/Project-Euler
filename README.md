@@ -1,8 +1,10 @@
 # Project-Euler
-1) Multiples 3 or 5               - Multiplesof3or5.java
-2) Even Fibonacci Numbers         - EvenFibonacci.java
-3) Sum Square Differents          -
-4) Smallest Multiple
-5) 
-6)
-7)
+1) Multiples 3 or 5               
+2) Even Fibonacci Numbers         
+3) Largest Prime Factor          
+4) Largest Palindrome Product
+5) Smallest Multiple
+6) Sum Square Difference
+7) 10 001st Prime
+8) Largest Product in a Series
+9) Special Pythagorean Triplet
