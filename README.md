@@ -9,8 +9,3 @@
 8) Largest Product in a Series
 9) Special Pythagorean Triplet
 10) Summation of Primes
-11) 1
-12) 1
-13) 1
-14) 1
-15) 1
