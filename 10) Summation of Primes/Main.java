@@ -22,8 +22,7 @@ public class Main{
                         if (temp==1){
                             Sum+=Num;
                             Num++;
-                       //     System.out.println(Num);                            
-                       //     System.out.println(Sum);
+     
                             break;
                         }
                     }
@@ -32,4 +31,5 @@ public class Main{
             }
             }System.out.println(Sum);
         }
+
 }
